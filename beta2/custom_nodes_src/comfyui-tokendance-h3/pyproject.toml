@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-tokendance-h3"
+description = "ComfyUI custom nodes: Tokendance H3 (词元跳动)"
+version = "0.0.1"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/yixuan/comfyui-tokendance-h3"
+
+[tool.comfy]
+PublisherId = "yixuan"
+DisplayName = "Tokendance H3 (词元跳动)"
+Icon = ""

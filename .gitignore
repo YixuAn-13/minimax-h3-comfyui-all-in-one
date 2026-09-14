@@ -1,0 +1,22 @@
+# 白名单式:只分发三个系列目录与根级说明文件,其余一律忽略
+/*
+
+# 根级保留
+!/README.md
+!/README.en.md
+!/.gitignore
+!/LICENSE
+!/beta1/
+!/beta2/
+!/beta3/
+
+# 目录内仍排除的杂项(优先级高于上面的 !)
+**/__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.backup
+LBH_stash_backup_*.patch

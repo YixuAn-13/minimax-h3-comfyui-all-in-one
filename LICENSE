@@ -1,0 +1,27 @@
+SPDX-License-Identifier: GPL-3.0-or-later
+
+Copyright (C) 2026 Project Contributor
+
+本仓库的工作流 JSON 与自研节点(comfyui-tokendance-h3、LBH 融合补丁等)采用
+GNU General Public License v3.0 或更高版本(GPL-3.0-or-later):
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.  See <https://www.gnu.org/licenses/gpl-3.0.html> for the
+full license text.
+
+---
+
+第三方源码与模型权重的许可:
+
+- `custom_nodes_src/` 下未上架的社区源码(如 sol_attn_minimax_v2.py、
+  comfyui-minimax-h3-blockcache-T8 等)按其原始许可随库分发,版权归原作者。
+  如作者要求调整署名或移除,请联系。
+- 模型权重遵循各自发布渠道的许可(HuggingFace Comfy-Org / alibaba-pai /
+  各社区模型页),不在本仓库分发。
+- 各系列子目录的 README 中「参考来源与致谢」一节列有完整逐节点作者对照表。
