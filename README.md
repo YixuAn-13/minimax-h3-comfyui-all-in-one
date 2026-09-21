@@ -158,15 +158,3 @@ pip install wheels/comfy_kitchen-0.2.31-cp312-abi3-win_amd64.whl
 ## 免责声明
 
 本项目仅供学习与技术研究,生成内容请遵守相关法律法规与模型许可证条款;人脸精修(FaceRefine)请仅用于本人素材或已获授权的人像。
-
----
-
-## ☕ 请作者喝杯奶茶
-
-如果这个项目对你有帮助，欢迎点个 Star，也可以请我喝一杯奶茶~
-
-<p align="center">
-  <img src="docs/alipay_qr.jpeg" width="220" alt="支付宝收款码">
-</p>
-
-> 赞赏纯属自愿，你的 Star 就是对项目最大的支持 ⭐
